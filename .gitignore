@@ -1,0 +1,16 @@
+# --- User-Generated Data ---
+*.csv
+/audio_cache/
+
+# --- TFLite Conversion Artifacts ---
+/model/keypoint_classifier/saved_model/
+
+# --- Python Cache ---
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# --- Environment Files ---
+.venv/
+venv/
+env/
