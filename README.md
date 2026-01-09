@@ -25,7 +25,7 @@ This project is split into three main parts:
 Clone the repository and install the required libraries:
 
 ```bash
-git clone https://https://github.com/Heetjain05/ASL--TO---SPEECH-CONVERTER-.git
+git clone https://github.com/Heetjain05/ASL--TO---SPEECH-CONVERTER-.git
 cd ASL-To-Speech-Converter-
 pip install -r requirements.txt
 ```
